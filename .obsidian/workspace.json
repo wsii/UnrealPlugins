@@ -1,0 +1,154 @@
+{
+  "main": {
+    "id": "4ecf632b5fe9e8a0",
+    "type": "split",
+    "children": [
+      {
+        "id": "80cbf446831b5324",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "072e28d778b1a9ab",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "插件 C++.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b6d8bd2a3d9ff008",
+    "type": "split",
+    "children": [
+      {
+        "id": "9735a84c1ab90bef",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3c5a9c86bfc23068",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "88c08fa99db998fa",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b402758a7b5f21ba",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "3a0c8250fb3e200a",
+    "type": "split",
+    "children": [
+      {
+        "id": "8c97c7b7616acb1d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "02c953b1128da5f4",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "插件 C++.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "7c79c5442bc9c48b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "插件 C++.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "5a81772e448b006a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "6fc5243c588bbce3",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "插件 C++.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "6fc5243c588bbce3",
+  "lastOpenFiles": [
+    "欢迎.md",
+    "插件 C++.md"
+  ]
+}
